@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Nilavanan;Innovating+finance+through+smart+code;Backend+Developer+%7C+Fintech+Enthusiast;MBA+Finance+%40+Annamalai+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Nilavanan;Innovating+finance+through+smart+code;Backend+Developer+%7C+Fintech+Enthusiast;MBA+Finance+%40+Annamalai+University" alt="Typing SVG" />
 
 <br/>
 
@@ -84,10 +84,10 @@ mindset: "Merging financial acumen with backend engineering to build systems tha
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nilavanan-fintech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nilavanan-fintech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9&cache_seconds=86400" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilavanan-fintech&theme=tokyonight&hide_border=true&background=0D1117&ring=00fff2&fire=00fff2&currStreakLabel=00fff2" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilavanan-fintech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00fff2&text_color=c9d1d9&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilavanan-fintech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00fff2&text_color=c9d1d9&cache_seconds=86400" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilavanan-fintech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00fff2&line=00fff2&point=ffffff" width="49%" />
 
 </div>
