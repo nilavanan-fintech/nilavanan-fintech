@@ -33,44 +33,50 @@ mindset: "Merging financial acumen with backend engineering to build systems tha
 
 ## 🧬 Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="140"><sub><b>LANGUAGES</b></sub></td>
+<td>
 
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00fff2)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=00fff2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00fff2)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=00fff2)
+<img src="https://skillicons.dev/icons?i=python,java,js,html&theme=dark" />
 
-**Backend & Frameworks**
-<br/>
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00fff2)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=00fff2)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=00fff2)
-![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&logoColor=00fff2)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00fff2)
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>BACKEND</b></sub></td>
+<td>
 
-**Frontend**
-<br/>
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00fff2)
-![Vite](https://img.shields.io/badge/-Vite-000000?style=for-the-badge&logo=vite&logoColor=00fff2)
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi&theme=dark" />
 
-**Databases**
-<br/>
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00fff2)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00fff2)
-![Redis](https://img.shields.io/badge/-Redis-000000?style=for-the-badge&logo=redis&logoColor=00fff2)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000000?style=for-the-badge&logo=apachespark&logoColor=00fff2)
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>FRONTEND</b></sub></td>
+<td>
 
-**Tools & Platforms**
-<br/>
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00fff2)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00fff2)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00fff2)
-![Grafana](https://img.shields.io/badge/-Grafana-000000?style=for-the-badge&logo=grafana&logoColor=00fff2)
-![Twilio](https://img.shields.io/badge/-Twilio-000000?style=for-the-badge&logo=twilio&logoColor=00fff2)
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" />
 
-</div>
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>DATABASE</b></sub></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />&nbsp;
+<img src="https://img.shields.io/badge/Apache_Spark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C&labelColor=0D1117" height="48"/>
+
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>TOOLS</b></sub></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,grafana&theme=dark" />&nbsp;
+<img src="https://img.shields.io/badge/Twilio-0D1117?style=flat-square&logo=twilio&logoColor=F22F46&labelColor=0D1117" height="48"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -109,24 +115,52 @@ mindset: "Merging financial acumen with backend engineering to build systems tha
 
 ## 💼 Experience
 
-```
-┌─ Backend Developer & Business Analyst (Contract) ──────────────
-│  Tunelink Networks AI, Bengaluru · Hybrid
-│  → Built backend systems with Python & Node.js
-│  → Set up real-time monitoring dashboards with Grafana
-│  → Deployed AI-powered voice automation using Twilio
-│  → Managed PostgreSQL & MySQL with a focus on performance
-│
-├─ Backend Developer (Intern) ────────────────────────────────────
-│  Mittai Healthcare Pvt Ltd
-│  → Built AI-powered voice automation for business workflows
-│  → Delivered real-time performance dashboards via Grafana
-│
-└─ IoT & Robotics (Intern) ───────────────────────────────────────
-   Nissi Engineering Solutions, Chennai
-   → Implemented robotic systems using Arduino
-   → Hands-on sensor interfacing & embedded programming
-```
+<table>
+<tr>
+<td width="8" style="background-color:#00fff2;"></td>
+<td>
+
+**Backend Developer & Business Analyst** · Contract
+Tunelink Networks AI, Bengaluru — *Hybrid*
+
+- Built backend systems using **Python** & **Node.js**
+- Set up real-time monitoring dashboards with **Grafana**
+- Deployed AI-powered voice automation using **Twilio**
+- Managed **PostgreSQL** & **MySQL** with a focus on performance
+
+`Python` `Node.js` `Grafana` `Twilio` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="8" style="background-color:#00fff2;"></td>
+<td>
+
+**Backend Developer** · Intern
+Mittai Healthcare Pvt Ltd
+
+- Built AI-powered voice automation for business workflows
+- Delivered real-time performance dashboards via **Grafana**
+
+`Node.js` `Grafana` `Twilio` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="8" style="background-color:#00fff2;"></td>
+<td>
+
+**IoT & Robotics** · Intern
+Nissi Engineering Solutions, Chennai
+
+- Implemented robotic systems using **Arduino**
+- Hands-on sensor interfacing & embedded programming
+
+`Arduino` `C++` `Embedded Systems`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
