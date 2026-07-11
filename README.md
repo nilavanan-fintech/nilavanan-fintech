@@ -21,7 +21,7 @@
 
 ```yaml
 name: "Nilavanan S A"
-role: "Backend Developer | Fintech-Focused Engineer"
+role: "Business Intelligence & Full Stack Developer | Fintech-Focused Engineer"
 current_focus: "Building smart, scalable systems for financial technology"
 education: "MBA - Financial Management, Annamalai University (In Progress)"
 background: "B.E Computer Science (Data Science), Annamalai University — OGPA 8.05"
@@ -72,7 +72,9 @@ mindset: "Merging financial acumen with backend engineering to build systems tha
 <td>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,grafana&theme=dark" />&nbsp;
-<img src="https://img.shields.io/badge/Twilio-0D1117?style=flat-square&logo=twilio&logoColor=F22F46&labelColor=0D1117" height="48"/>
+<img src="https://img.shields.io/badge/Twilio-0D1117?style=flat-square&logo=twilio&logoColor=F22F46&labelColor=0D1117" height="48"/>&nbsp;
+<img src="https://img.shields.io/badge/cPanel-0D1117?style=flat-square&logo=cpanel&logoColor=FF6C2C&labelColor=0D1117" height="48"/>&nbsp;
+<img src="https://img.shields.io/badge/VPS-0D1117?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0D1117" height="48"/>
 
 </td>
 </tr>
@@ -116,6 +118,20 @@ mindset: "Merging financial acumen with backend engineering to build systems tha
 ## 💼 Experience
 
 <table>
+<tr>
+<td width="8" style="background-color:#00fff2;"></td>
+<td>
+
+**Business Intelligence & Full Stack Developer** · Onsite `🟢 Current`
+4D Advisory — *Jun 2026 – Present*
+
+- **Task Tracker:** Developed a centralized platform for task assignment, progress monitoring, and project workflow management
+- **KPI Dashboard:** Built a real-time performance tracking system to monitor employee productivity and business metrics
+
+`Python` `Node.js` `GitHub` `cPanel` `VPS`
+
+</td>
+</tr>
 <tr>
 <td width="8" style="background-color:#00fff2;"></td>
 <td>
