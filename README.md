@@ -101,17 +101,23 @@ mindset: "Merging financial acumen with backend engineering to build systems tha
 <div align="center">
 
 <!--
-  These cards auto-pull live data from your pinned repositories.
-  Pin your top repos on your GitHub profile (Customize your pins)
-  and they'll render here automatically — no manual editing needed.
+  First card is a manual thumbnail-based project card.
+  Place a thumbnail.png image in your repo (same folder as this README)
+  for it to render below.
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nilavanan-fintech&repo=your-repo-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="48%" />
+<a href="https://github.com/nilavanan-fintech/neobanks-vs-traditional-banks-comparison">
+<img src="thumbnail.png" alt="Neobanks vs Traditional Banks Comparison" width="48%" style="border-radius:8px;border:1px solid #00fff2;" />
+</a>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilavanan-fintech&repo=your-repo-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="48%" />
+
+<br/>
+
+**[Neobanks vs Traditional Banks Comparison](https://github.com/nilavanan-fintech/neobanks-vs-traditional-banks-comparison)** — Fintech analysis project comparing neobanks and traditional banks.
 
 </div>
 
-> Replace `your-repo-1` / `your-repo-2` above with your actual repository names (or pin repos on your GitHub profile — the cards fetch live).
+> Replace `your-repo-2` above with your actual repository name (or pin repos on your GitHub profile — that card fetches live). Add a `thumbnail.png` file to your repo root for the first card's image to display correctly.
 
 <br/>
 
