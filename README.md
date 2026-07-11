@@ -84,10 +84,10 @@ mindset: "Merging financial acumen with backend engineering to build systems tha
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nilavanan-fintech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nilavanan-fintech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9&cache_seconds=1800" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilavanan-fintech&theme=tokyonight&hide_border=true&background=0D1117&ring=00fff2&fire=00fff2&currStreakLabel=00fff2" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilavanan-fintech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00fff2&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilavanan-fintech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00fff2&text_color=c9d1d9&cache_seconds=1800" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilavanan-fintech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00fff2&line=00fff2&point=ffffff" width="49%" />
 
 </div>
