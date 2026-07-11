@@ -107,7 +107,7 @@ mindset: "Merging financial acumen with backend engineering to build systems tha
 -->
 
 <a href="https://github.com/nilavanan-fintech/neobanks-vs-traditional-banks-comparison">
-<img src="thumbnail.png" alt="Neobanks vs Traditional Banks Comparison" width="48%" style="border-radius:8px;border:1px solid #00fff2;" />
+<img src="https://raw.githubusercontent.com/nilavanan-fintech/neobanks-vs-traditional-banks-comparison/main/thumbnail.png" alt="Neobanks vs Traditional Banks Comparison" width="48%" style="border-radius:8px;border:1px solid #00fff2;" />
 </a>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilavanan-fintech&repo=your-repo-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="48%" />
 
@@ -117,7 +117,7 @@ mindset: "Merging financial acumen with backend engineering to build systems tha
 
 </div>
 
-> Replace `your-repo-2` above with your actual repository name (or pin repos on your GitHub profile — that card fetches live). Add a `thumbnail.png` file to your repo root for the first card's image to display correctly.
+> Replace `your-repo-2` above with your actual repository name (or pin repos on your GitHub profile — that card fetches live).
 
 <br/>
 
