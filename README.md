@@ -1,12 +1,13 @@
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub automatically shows the dark svg in dark mode and the light svg in light mode -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilavanan-fintech/nilavanan-fintech/main/hero_banner_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilavanan-fintech/nilavanan-fintech/main/hero_banner_light.svg">
+  <img alt="Nilavanan S A" src="https://raw.githubusercontent.com/nilavanan-fintech/nilavanan-fintech/main/hero_banner_dark.svg" width="100%">
+</picture>
+
 <div align="center">
-
-<img src="profile.png" alt="Nilavanan S A" width="150" height="150" style="border-radius:50%;border:3px solid #DDA15E;" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=DDA15E&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Nilavanan;Innovating+finance+through+smart+code;Backend+Developer+%7C+Fintech+Enthusiast;MBA+Finance+%40+Annamalai+University" alt="Typing SVG" />
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nilavanan-fintech&color=606C38&style=flat-square&label=PROFILE+VIEWS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-283618?style=for-the-badge&logo=vercel&logoColor=DDA15E)](https://nilavanan-fintech.github.io/nilavanan/)
@@ -15,7 +16,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:283618,50:606C38,100:283618&height=160&section=header&text=&fontColor=FEFAE0" width="100%"/>
+<br/>
 
 ## 🫒 About Me
 
